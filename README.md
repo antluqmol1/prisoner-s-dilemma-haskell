@@ -8,6 +8,16 @@
 
 # Setup
 
+## Execution 
+- Para ejecutarlo desde la terminal/cmd, estando situado en la carpeta con el proyecto: 
+    runhaskell main.hs
+- Para ejecutarlo desde ghc:
+    :l main.hs
+
+## Developers
+- Antonio Manuel Luque Molina
+- Miguel Vázquez De la Rubia
+
 # Git branches
 
 when working on a new feature or specific changes/fixes, We should make our own branch.<br>
